@@ -118,7 +118,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/DS7a5Q' target='_blank'><img src='http://palmheights.com.vn/wp-content/uploads/2017/10/mat-bang-can-ho-palm-heights-e1507262549231-768x617.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/DS7a5Q' target='_blank'><img src='http://palmheights.com.vn/wp-content/uploads/2017/10/mat-bang-can-ho-palm-heights-e1507262549231-768x617.jpg' width='500px'/><br/>Chuyển nhượng giỏ hàng hơn 60 căn hộ Palm Heights giá tốt nhất thị trường </a>. Liên hệ 0937163598. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
